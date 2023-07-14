@@ -1,23 +1,32 @@
-## Hello to everyone🖐
+<div align="center">
+  
+## Hello to everyone 🖐
+</div>
 
 ### If you:
 
+  
 * have an interesting idea for a project
 * want to work together
 * need help
 * or just want to chat with me 😉
-
+  
+<div align="center">
+  
 Then you are **welcome** to my mail - `s0d3s.mail@gmail.com`
+</div>
 
+<br>
 <img alt="divider" src="https://github.com/s0d3s/s0d3s/blob/main/assets/underline.svg"/>
 <br>
+
 <div align="center">
   
 ## 🎉 About me 
 </div>
 
 I am a **jack-of-all-trades** programmer proficient in various domains,<br>
-capable of tackling any coding challenge with expertise and versatility 🥴😵
+capable of tackling any coding challenge with expertise and versatility 🥴
 
 ### I am easily interested in everything that can be related to:
 
@@ -25,6 +34,7 @@ capable of tackling any coding challenge with expertise and versatility 🥴😵
 * automatization
 * life-improvement
 * cool unordinary ideas
+* AI-based solutions
 * Open Source 
 
 ### You may be interested in my following projects:
