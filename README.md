@@ -26,7 +26,7 @@ Then you are **welcome** to my mail - `s0d3s.mail@gmail.com`
 </div>
 
 I am a **jack-of-all-trades** programmer proficient in various domains,<br>
-capable of tackling any coding challenge with expertise and versatility 🥴
+capable of tackling any coding challenge using my expertise and versatility 🥴
 
 ### I am easily interested in everything that can be related to:
 
