@@ -35,7 +35,8 @@ capable of tackling any coding challenge using my expertise and versatility 🥴
 * life-improvement
 * cool unordinary ideas
 * AI-based solutions
-* Open Source 
+* Open Source
+* 3D modeling, Game Dev, etc.
 
 ### You may be interested in my following projects:
 
