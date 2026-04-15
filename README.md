@@ -42,7 +42,7 @@ capable of tackling any coding challenge using my expertise and versatility 🥴
 
  - [Positioner](https://github.com/s0d3s/Positioner) ⤖ app to manage the position of icons on the desktop 💻
  - [PyAudioWPatch](https://github.com/s0d3s/PyAudioWPatch) ⤖ recording audio from speakers on Windows using python 🔊
- - [SQLCipherMultiplatform](https://github.com/s0d3s/SQLCipherMultiplatform) ⤖ encode your SQLite DB across all Kotlin Multiplatorm targets 🛢
+ - [SQLCipherMultiplatform](https://github.com/s0d3s/SQLCipherMultiplatform) ⤖ encrypt your SQLite DB across all Kotlin Multiplatorm targets 🛢
  - [hsDummyImage](https://github.com/DummyFiles/hsDummyImage) ⤖ tool for generating dummy images of given size, for test cases 🛠
  - [MultipleNFTUploader](https://github.com/ModernNFTSpace/MultipleNFTUploader)_[deprecated]_ ⤖ upload your million NFTs to opensea.io 🚢
 
