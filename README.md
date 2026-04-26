@@ -45,6 +45,7 @@ capable of tackling any coding challenge using my expertise and versatility 🥴
  - [SQLCipherMultiplatform](https://github.com/s0d3s/SQLCipherMultiplatform) ⤖ encrypt your SQLite DB across all Kotlin Multiplatorm targets 🛢
  - [hsDummyImage](https://github.com/DummyFiles/hsDummyImage) ⤖ tool for generating dummy images of given size, for test cases 🛠
  - [MultipleNFTUploader](https://github.com/ModernNFTSpace/MultipleNFTUploader)_[deprecated]_ ⤖ upload your million NFTs to opensea.io 🚢
+ - [EchoNanny](https://github.com/s0d3s/EchoNanny) ⤖ Remote access to your PC microphone & voice detection with Web UI 🎙
 
 
  <br>
