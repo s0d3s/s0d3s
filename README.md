@@ -40,12 +40,19 @@ capable of tackling any coding challenge using my expertise and versatility 🥴
 
 ### You may be interested in my following projects:
 
- - [Positioner](https://github.com/s0d3s/Positioner) ⤖ app to manage the position of icons on the desktop 💻
- - [PyAudioWPatch](https://github.com/s0d3s/PyAudioWPatch) ⤖ recording audio from speakers on Windows using python 🔊
- - [SQLCipherMultiplatform](https://github.com/s0d3s/SQLCipherMultiplatform) ⤖ encrypt your SQLite DB across all Kotlin Multiplatorm targets 🛢
- - [hsDummyImage](https://github.com/DummyFiles/hsDummyImage) ⤖ tool for generating dummy images of given size, for test cases 🛠
- - [MultipleNFTUploader](https://github.com/ModernNFTSpace/MultipleNFTUploader)_[deprecated]_ ⤖ upload your million NFTs to opensea.io 🚢
- - [EchoNanny](https://github.com/s0d3s/EchoNanny) ⤖ Remote access to your PC microphone & voice detection with Web UI 🎙
+| Project | What it does | Tech |
+|---|---|---|
+| 🖥️ **[Positioner](https://github.com/s0d3s/Positioner)** | Manage, save and manipulate Windows desktop icon layouts | Windows • Desktop |
+| 🔊 **[PyAudioWPatch](https://github.com/s0d3s/PyAudioWPatch)** | Record system audio directly from Windows speakers via WASAPI loopback | Python • C • WASAPI |
+| 🦀 **[rusty-desktop-icons](https://github.com/s0d3s/rusty-desktop-icons)** | Control and animate Windows desktop icons from Rust & Python | Rust • Python • Desktop |
+| 🔐 **[SQLCipherMultiplatform](https://github.com/s0d3s/SQLCipherMultiplatform)** | SQLCipher-powered encrypted SQLite for Kotlin Multiplatform | Kotlin • SQLite • SQLCipher |
+| 🎙️ **[EchoNanny](https://github.com/s0d3s/EchoNanny)** | Remote microphone streaming and voice detection with a Web UI | Python • Web • Audio |
+| 🛠️ **[hsDummyImage](https://github.com/DummyFiles/hsDummyImage)** | Generate dummy images of arbitrary size for testing | Haskell |
+| 📦 **[MultipleNFTUploader](https://github.com/ModernNFTSpace/MultipleNFTUploader)** | Bulk OpenSea NFT upload automation *(deprecated)* | Automation |
+
+<sub>
+Most of my projects revolve around system APIs, desktop tooling, native bindings, automation, and making awkward low-level functionality easier to use.
+</sub>
 
 
  <br>
